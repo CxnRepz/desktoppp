@@ -1,12 +1,11 @@
 packages:
 
- packages:
-  - "."
+- “.”
 
 allowBuilds:
 electron-winstaller: true
 
 minimumReleaseAgeExclude:
 
-* ‘@kawarp/core@1.2.1’
-* ‘@kawarp/react@1.2.1’
+* “@kawarp/core@1.2.1”
+* “@kawarp/react@1.2.1”
